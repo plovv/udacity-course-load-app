@@ -2,4 +2,9 @@
     <dimen name="fab_margin">16dp</dimen>
 
     <dimen name="default_text_size">20sp</dimen>
+    <dimen name="btn_download_margin">20dp</dimen>
+    <dimen name="radio_group_margin">10dp</dimen>
+    <dimen name="radio_in_between_margin">5dp</dimen>
+    <dimen name="txt_details_margin">20dp</dimen>
+    <dimen name="txt_size_details">18sp</dimen>
 </resources>

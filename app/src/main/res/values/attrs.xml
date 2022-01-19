@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="LoadingButton">
-<!--   TODO: create custom attributes for the view-->
+        <attr name="defaultBackgroundColor" format="color" />
+        <attr name="defaultText" format="string" />
+
+        <attr name="downloadingBackgroundColor" format="color" />
+        <attr name="downloadingText" format="string" />
+
+        <attr name="loadingArcBackgroundColor" format="color" />
+
+        <attr name="textSize" format="dimension" />
+        <attr name="textColor" format="color" />
     </declare-styleable>
 </resources>
